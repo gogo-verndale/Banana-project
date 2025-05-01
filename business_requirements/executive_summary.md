@@ -1,0 +1,3 @@
+## Executive Summary
+
+B2B Banana Hub is a dedicated B2B e-commerce platform specializing in the wholesale distribution of bananas. It provides a seamless online purchasing experience for businesses requiring bulk banana supplies. Built on Optimizely version 13 with a Vue.js frontend, the platform adheres to specific operational constraints, payment gateway rules, order volume limitations, and the unique food regulations dictated by the "Law of Bananantime."
