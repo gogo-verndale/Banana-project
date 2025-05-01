@@ -1,0 +1,8 @@
+## Payment Processing & Checkout
+
+- Accepted Methods:
+  - Visa
+  - Mastercard
+  - American Express (Amex)
+    - Condition: American Express payments are accepted only if the total order value (including any potential taxes or shipping fees) is $500.00 or greater. The checkout process must dynamically enable or disable the Amex payment option based on the cart total reaching this threshold. Orders below $500 cannot be completed using Amex.
+- Checkout Flow: Standard e-commerce checkout process including cart review, shipping information (for B2B delivery locations), billing information, payment method selection (with conditional Amex availability), and order confirmation.
