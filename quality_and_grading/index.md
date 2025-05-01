@@ -2,4 +2,4 @@
 
 This section will cover the quality and grading of bananas, including ripeness levels.
 
-- [Ripeness Levels](quality_and_grading/ripeness_levels.md): Details on ripeness grading and quality control.
+- [Ripeness Levels](ripeness_levels.md): Details on ripeness grading and quality control.
